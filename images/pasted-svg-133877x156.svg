@@ -1,0 +1,40 @@
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="133.877px" height="156.256px" viewBox="0 0 133.877 156.256"
+	 style="enable-background:new 0 0 133.877 156.256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#6298D6;}
+	.st2{fill:none;stroke:#272425;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#F2D055;}
+</style>
+<defs>
+</defs>
+<g>
+	<circle class="st0" cx="66.938" cy="66.938" r="66.938"/>
+	<g>
+		<rect x="33.258" y="40.468" class="st1" width="68.228" height="49.228"/>
+		<polyline class="st2" points="67.882,97.035 24.882,97.035 24.882,33.035 108.882,33.035 108.882,97.035 95.882,97.035 		"/>
+		<polyline class="st2" points="38.882,40.035 32.882,40.035 32.882,45.035 		"/>
+		<polyline class="st2" points="38.882,89.035 32.882,89.035 32.882,84.035 		"/>
+		<polyline class="st2" points="101.882,45.035 101.882,40.035 97.882,40.035 		"/>
+		<polyline class="st2" points="101.882,84.035 101.882,89.035 97.882,89.035 		"/>
+		<line class="st2" x1="36.882" y1="58.035" x2="97.882" y2="58.035"/>
+		<line class="st2" x1="36.882" y1="66.035" x2="97.882" y2="66.035"/>
+		<line class="st2" x1="36.882" y1="72.035" x2="97.882" y2="72.035"/>
+		<line class="st2" x1="46.882" y1="82.035" x2="50.882" y2="82.035"/>
+		<line class="st2" x1="53.882" y1="82.035" x2="58.882" y2="82.035"/>
+		<line class="st2" x1="61.882" y1="82.035" x2="67.882" y2="82.035"/>
+		<line class="st2" x1="46.882" y1="89.035" x2="50.882" y2="89.035"/>
+		<line class="st2" x1="53.882" y1="89.035" x2="58.882" y2="89.035"/>
+		<line class="st2" x1="61.882" y1="89.035" x2="67.882" y2="89.035"/>
+		<path class="st2" d="M74.882,50.144c0,1.597-1.295,2.891-2.892,2.891h-7.216c-1.597,0-2.892-1.294-2.892-2.891v-7.217
+			c0-1.597,1.295-2.891,2.892-2.891h7.216c1.597,0,2.892,1.294,2.892,2.891V50.144z"/>
+		<polyline class="st2" points="73.882,95.035 73.882,113.231 81.382,109.135 88.882,113.231 88.882,95.035 		"/>
+		<ellipse class="st3" cx="81.554" cy="89.526" rx="10.495" ry="10.673"/>
+		<line class="st2" x1="77.882" y1="89.035" x2="85.882" y2="89.035"/>
+	</g>
+</g>
+<polygon class="st0" points="66.938,156.256 60.507,142.645 54.075,129.035 66.938,129.035 79.801,129.035 73.369,142.645 "/>
+</svg>

@@ -1,0 +1,9 @@
+.section-header{
+    position: relative;
+    height: 100vh;
+
+    &__title{
+        position: absolute;
+        @include absoluteCenter;
+    }
+}

@@ -3,7 +3,23 @@
     height: 100vh;
 
     &__title{
-        position: absolute;
         @include absoluteCenter;
+        // height: 100%;
+        text-align: center;
+        display: block;
+        img{
+            height: 100%;
+            -webkit-clip-path: circle(28.7% at 51% 23%);
+            clip-path: circle(28.7% at 51% 23%);
+            overflow: hidden;
+            margin-bottom: -30rem;
+        }
+    }
+}
+
+.section-about{
+    
+    &__image{
+        display: inline;
     }
 }

@@ -211,5 +211,8 @@ body {
       overflow: hidden;
       margin-bottom: -30rem; }
 
-.section-about__image {
-  display: inline; }
+.section-about {
+  position: relative;
+  text-align: center; }
+  .section-about__image {
+    width: 60%; }

@@ -18,8 +18,9 @@
 }
 
 .section-about{
-    
+    position: relative;
+    text-align: center;
     &__image{
-        display: inline;
+        width: 60%
     }
 }

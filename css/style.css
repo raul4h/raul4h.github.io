@@ -191,7 +191,7 @@ body {
 .left {
   left: 0;
   /* Add arrows to the left container (pointing right) */ }
-  .left .left::before {
+  .left::before {
     content: " ";
     height: 0;
     position: absolute;

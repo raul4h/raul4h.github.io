@@ -42,7 +42,7 @@
 .left {
     left: 0;
     /* Add arrows to the left container (pointing right) */
-    .left::before {
+    &::before {
         content: " ";
         height: 0;
         position: absolute;
